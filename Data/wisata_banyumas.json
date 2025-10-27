@@ -1,0 +1,281 @@
+{
+    "sheet": "Wisata-Alam-Blom-Fix",
+    "rows": 25,
+    "data": [
+        [
+            "id",
+            "Nama",
+            "Lokasi",
+            "Deskripsi",
+            "Harga Tiket Dewasa",
+            "Harga Tiket Anak-anak",
+            "Harga Tiket Weekend",
+            "Jam Buka",
+            "Jam Tutup"
+        ],
+        [
+            "baturraden",
+            "Lokawisata Baturraden",
+            "Karangmangu, Baturraden",
+            "Lokawisata Baturraden merupakan destinasi utama di kaki Gunung Slamet yang menawarkan taman rekreasi keluarga, kolam air panas, dan area bermain anak. Udara sejuk pegunungan menjadikannya tempat ideal untuk berlibur bersama keluarga.",
+            "Rp20.000 (weekday)",
+            "Rp10.000 (weekday)",
+            "Rp25.000 (dewasa), Rp12.500 (anak)",
+            "7 AM",
+            "7 PM"
+        ],
+        [
+            "telaga_sunyi",
+            "Telaga Sunyi",
+            "Ketenger, Baturraden",
+            "Telaga Sunyi adalah kolam alami dengan air jernih di tengah hutan pinus. Suasananya tenang dan sejuk, cocok untuk bersantai dan menikmati keindahan alam tanpa keramaian.",
+            15000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "limpakuwus",
+            "Hutan Pinus Limpakuwus",
+            "Jl Baturraden Timur,Limpakuwus, Sumbang",
+            "Hutan Pinus Limpakuwus menawarkan pemandangan rindang dan udara segar di lereng gunung. Pengunjung dapat menikmati spot foto, wahana seru, serta area camping di bawah pepohonan pinus.",
+            17500,
+            "Tidak Ada",
+            "Tidak Ada",
+            "7,30 AM",
+            "4,30 PM"
+        ],
+        [
+            "curug_jenggala",
+            "Curug Jenggala",
+            "Kalipagu, Ketenger",
+            "Curug Jenggala dikenal dengan tiga aliran air terjunnya dan dek berbentuk hati yang ikonik. Airnya jernih dan suasana alamnya sejuk, sangat cocok untuk wisata foto dan relaksasi.",
+            15000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "7,30 AM",
+            "5 PM"
+        ],
+        [
+            "curug_telu",
+            "Curug Telu",
+            "Karangsalam, Baturraden",
+            "Curug Telu memiliki tiga air terjun berurutan dengan aliran air jernih dan suasana alami. Pengunjung dapat bermain air atau menikmati panorama hutan sekitar yang masih asri.",
+            5000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "curug_bayan",
+            "Curug Bayan",
+            "Ketenger, Baturraden",
+            "Curug Bayan menawarkan pemandangan air terjun bertingkat di tengah suasana pedesaan yang sejuk. Di sekitar curug terdapat penginapan dan area wisata keluarga yang nyaman.",
+            15000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "curug_cipendok",
+            "Curug Cipendok",
+            "Karangtengah, Cilongok",
+            "Curug Cipendok adalah air terjun setinggi sekitar 90 meter yang dikelilingi hutan lebat. Suara gemericik air dan kesejukan udara menjadikannya destinasi favorit pecinta alam.",
+            15000,
+            5000,
+            "(Libur besar) Rp12.500",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "curug_gomblang",
+            "Curug Gomblang",
+            "Kalisalak, Kedungbanteng",
+            "Curug Gomblang menyajikan panorama tebing tinggi dengan air terjun deras dan area foto berlatar hutan tropis. Tempat ini juga menawarkan camping ground dan spot swafoto menarik.",
+            10000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "curug_ceheng",
+            "Curug Ceheng",
+            "Gandatapa, Sumbang",
+            "Curug Ceheng merupakan air terjun alami dengan aliran deras dan lingkungan hijau menenangkan. Cocok untuk rekreasi alam dan kegiatan berkemah ringan bersama teman atau keluarga.",
+            5000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "curug_nangga",
+            "Curug Nangga (7 tingkat)",
+            "Petahunan, Pekuncen",
+            "Curug Nangga terkenal dengan tujuh tingkat air terjun yang berundak dan panorama alam yang indah. Perpaduan tebing batu dan vegetasi hijau membuatnya fotogenik dan menenangkan.",
+            10000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "bukit_tranggulasih",
+            "Bukit Tranggulasih",
+            "Windujaya, Kedungbanteng",
+            "Bukit Tranggulasih menyuguhkan pemandangan Kota Purwokerto dari ketinggian. Lokasinya populer untuk camping, berburu sunrise, dan menikmati udara segar pagi hari.",
+            5000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "24 Hours",
+            "24 Hours"
+        ],
+        [
+            "bukit_watu_meja",
+            "Bukit Watu Meja",
+            "Tumiyang, Kebasen",
+            "Bukit Watu Meja menawarkan panorama Sungai Serayu dan hamparan pegunungan di kejauhan. Spot ini cocok untuk fotografi alam dan pendakian ringan.",
+            7000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "6 PM"
+        ],
+        [
+            "kebun_raya_btr",
+            "Kebun Raya Baturraden",
+            "Kemutug lor, Baturraden",
+            "Kebun Raya Baturraden merupakan taman botani dengan koleksi flora pegunungan dan rumah kaca. Pengunjung dapat berjalan santai sambil menikmati udara segar dan pemandangan alami.",
+            "Rp20.000 (wkdy)",
+            "Tidak Ada",
+            "Rp25.000 (wkd)",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "pancuran_telu",
+            "Pancuran Telu",
+            "Karangmangu, Baturraden",
+            "Pancuran Telu adalah pemandian air panas alami yang berasal dari lereng Gunung Slamet. Air belerangnya dipercaya bermanfaat untuk relaksasi dan kesehatan kulit.",
+            "Rp20.000 (wkdy)",
+            "Tidak Ada",
+            "Rp25.000 (wkd)",
+            "7 AM",
+            "5 PM"
+        ],
+        [
+            "pancuran_pitu",
+            "Pancuran 7 (Pitu)",
+            "Ketenger, Baturraden",
+            "Pancuran Pitu dikenal sebagai pemandian air panas dengan tujuh pancuran alami. Pengunjung bisa merendam tubuh sambil menikmati udara pegunungan yang sejuk.",
+            15000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "baf",
+            "Baturraden Adventure Forest",
+            "Pandak, Karangsalam, Baturraden",
+            "Baturraden Adventure Forest menghadirkan pengalaman petualangan di tengah hutan pinus dengan aktivitas seperti outbound, flying fox, dan camping. Sangat cocok untuk wisata edukatif dan rekreasi keluarga.",
+            "Tidak Ada",
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "wana_baturraden",
+            "Wana Wisata Baturraden",
+            "Baturraden",
+            "Wana Wisata Baturraden menawarkan jalur trekking alami, bumi perkemahan, dan panorama hutan lindung. Tempat ini cocok untuk pecinta alam yang ingin menikmati ketenangan pegunungan.",
+            "Tidak Ada",
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "bhumi_bambu",
+            "Bhumi Bambu Baturraden",
+            "Baturraden",
+            "Bhumi Bambu Baturraden merupakan wisata alam tematik yang menggabungkan keindahan hutan bambu dengan empat air terjun alami. Tersedia area camping, kafe, dan spot foto menarik.",
+            25000,
+            "Tidak Ada",
+            25000,
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "bukit_pandang",
+            "Bukit Pandang Munggang",
+            "Ketenger, Baturraden",
+            "Bukit Pandang Munggang menyajikan panorama Kota Purwokerto dari ketinggian. Tempat ini populer untuk aktivitas camping dan menikmati suasana malam yang tenang.",
+            "Tidak Ada",
+            "Tidak Ada",
+            "Tidak Ada",
+            "6 AM ",
+            "6 PM"
+        ],
+        [
+            "curug_kedung_lesung",
+            "Curug Kedung Lesung",
+            "Tumiyang, Pekuncen",
+            "Curug Kedung Lesung merupakan air terjun kecil dengan kolam alami yang jernih. Suasananya masih alami dan cocok untuk wisata santai di pedesaan.",
+            5000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "5 PM"
+        ],
+        [
+            "curug_grinjing",
+            "Curug Grinjing",
+            "Banyumas",
+            "Curug Grinjing adalah air terjun tersembunyi di tengah hutan dengan suasana sunyi dan alami. Cocok untuk pecinta wisata alam yang mencari ketenangan jauh dari keramaian.",
+            "Tidak Ada",
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "curug_tirta_sela",
+            "Curug Tirta Sela",
+            "Banyumas",
+            "Curug Tirta Sela memiliki air jernih dan udara sejuk khas pegunungan. Lokasinya tersembunyi di desa wisata yang masih asri dan jarang terjamah wisatawan.",
+            "Tidak Ada",
+            "Tidak Ada",
+            "Tidak Ada",
+            "8 AM ",
+            "4 PM"
+        ],
+        [
+            "curug_gemawang",
+            "Curug Gemawang",
+            "Banyumas",
+            "Curug Gemawang Banyumas merupakan sebuah objek wisata alam yang menyuguhkan keindahan air terjun dengan kolam biru toscanya. Air terjun ini memang tidak berlokasi di kawasan wisata populer Baturraden, tetapi pesonanya tak kalah ciamik. Wisatawan yang datang bisa menikmati banyak aliran air terjun dari tebing berbatu dengan suguhan nuansa alam yang masih sangat asri. Tempatnya yang cukup tersembunyi membuat objek wisata ini menjadi hidden gems yang pas untuk healing.\r\n\r",
+            5000,
+            "Tidak Ada",
+            "Tidak Ada",
+            "7 AM",
+            "4 PM"
+        ],
+        [
+            "pagubugan_melung",
+            "Pagubugan Melung",
+            "Melung, Banyumas",
+            "Pagubugan Melung berada di Desa Wisata Melung, Kecamatan Kedungbanteng, Kabupaten Banyumas. Lokasinya kurang lebih berjarak 13 km dari pusat Kabupaten Banyumas. detikers dapat menempuh perjalanan selama 30 menit dengan kendaraan bermotor untuk mencapai lokasi wisata Pagubugan Melung.",
+            10000,
+            "Tidak Ada",
+            "-",
+            "7,30 AM",
+            "4 PM"
+        ]
+    ]
+}
