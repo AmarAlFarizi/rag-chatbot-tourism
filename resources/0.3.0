@@ -1,0 +1,23 @@
+Requirement already satisfied: langchain==1.0.3 in c:\users\akuns\appdata\local\programs\python\python312\lib\site-packages (1.0.3)
+Requirement already satisfied: langchain-core==0.3.79 in c:\users\akuns\appdata\local\programs\python\python312\lib\site-packages (0.3.79)
+Requirement already satisfied: langchain-community in c:\users\akuns\appdata\local\programs\python\python312\lib\site-packages (0.4.1)
+Requirement already satisfied: langchain-openai in c:\users\akuns\appdata\local\programs\python\python312\lib\site-packages (0.3.35)
+Collecting langchain-openai
+  Using cached langchain_openai-1.0.1-py3-none-any.whl.metadata (1.8 kB)
+Collecting faiss-cpu
+  Downloading faiss_cpu-1.12.0-cp312-cp312-win_amd64.whl.metadata (5.2 kB)
+Requirement already satisfied: pydantic<3 in c:\users\akuns\appdata\local\programs\python\python312\lib\site-packages (2.12.3)
+INFO: pip is looking at multiple versions of langchain to determine which version is compatible with other requirements. This could take a while.
+Collecting langchain==1.0.3
+  Using cached langchain-1.0.3-py3-none-any.whl.metadata (4.7 kB)
+
+The conflict is caused by:
+    The user requested langchain-core==0.3.79
+    langchain 1.0.3 depends on langchain-core<2.0.0 and >=1.0.0
+    The user requested langchain-core==0.3.79
+    langchain 1.0.3 depends on langchain-core<2.0.0 and >=1.0.0
+
+To fix this you could try to:
+1. loosen the range of package versions you've specified
+2. remove package versions to allow pip to attempt to solve the dependency conflict
+
