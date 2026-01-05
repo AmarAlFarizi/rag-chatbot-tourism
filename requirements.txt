@@ -1,12 +1,71 @@
-langchain==0.3.26
-langchain-community==0.3.26
-langchain-openai==0.3.24
-langchain-pinecone==0.2.8
-langchain-text-splitters==0.3.2
+# # Core
+# python-dotenv>=1.0.1
 
-flask==3.1.1
-python-dotenv==1.1.0
-pypdf==5.6.1
-sentence-transformers>=3,<5
+# # LangChain (versi stabil & kompatibel)
+# langchain==0.2.16
+# langchain-core==0.2.38
+# langchain-community==0.2.16
+# langchain-openai==0.1.23
+# langchain-huggingface==0.0.3
 
--e .
+# # Embedding & NLP
+# sentence-transformers>=2.6.1
+# transformers>=4.41.0
+# torch>=2.2.2
+
+# # Vector DB
+# pinecone>=5.0.0
+
+# # Utils
+# numpy>=1.26.4
+# scikit-learn>=1.4.2
+
+# # Evaluation
+# bert-score>=0.3.13
+# Core Dependencies - Versi Stabil
+
+langchain==0.2.11
+langchain-core==0.2.23
+langchain-community==0.2.10
+
+# LangChain Integrations
+langchain-openai==0.1.17
+langchain-huggingface==0.0.3
+langchain-pinecone==0.1.1
+
+# Pinecone
+pinecone-client==3.2.2
+
+# Embedding Models
+sentence-transformers==2.7.0
+transformers==4.41.2
+
+# Vector Store & Search
+faiss-cpu==1.8.0
+
+# Pydantic - PENTING: Gunakan v1
+pydantic==1.10.13
+
+# LangSmith - Kompatibel dengan Pydantic v1
+langsmith==0.1.85
+
+# OpenAI
+openai==1.35.3
+
+# Evaluation Metrics
+bert-score==0.3.13
+nltk==3.8.1
+scikit-learn==1.5.1
+
+# Utilities
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+
+# Jupyter
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.4
+
+# Optional: Progress bars
+tqdm==4.66.4

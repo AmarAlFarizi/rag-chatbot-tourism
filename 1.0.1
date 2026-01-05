@@ -1,0 +1,64 @@
+Collecting langchain==0.2.13
+  Using cached langchain-0.2.13-py3-none-any.whl.metadata (7.1 kB)
+Collecting langchain-core==0.2.30
+  Using cached langchain_core-0.2.30-py3-none-any.whl.metadata (6.2 kB)
+Collecting langchain-community==0.2.13
+  Using cached langchain_community-0.2.13-py3-none-any.whl.metadata (2.7 kB)
+Collecting langchain-openai==0.1.20
+  Using cached langchain_openai-0.1.20-py3-none-any.whl.metadata (2.6 kB)
+Collecting langchain-pinecone==0.2.13
+  Using cached langchain_pinecone-0.2.13-py3-none-any.whl.metadata (8.6 kB)
+Collecting pinecone==5.4.2
+  Using cached pinecone-5.4.2-py3-none-any.whl.metadata (19 kB)
+Collecting sentence-transformers==2.6.1
+  Using cached sentence_transformers-2.6.1-py3-none-any.whl.metadata (11 kB)
+Collecting transformers
+  Using cached transformers-4.57.3-py3-none-any.whl.metadata (43 kB)
+Collecting torch
+  Downloading torch-2.9.1-cp312-cp312-win_amd64.whl.metadata (30 kB)
+Collecting numpy
+  Downloading numpy-2.4.0-cp312-cp312-win_amd64.whl.metadata (6.6 kB)
+Collecting scikit-learn
+  Downloading scikit_learn-1.8.0-cp312-cp312-win_amd64.whl.metadata (11 kB)
+Collecting bert-score
+  Using cached bert_score-0.3.13-py3-none-any.whl.metadata (15 kB)
+Collecting nltk
+  Using cached nltk-3.9.2-py3-none-any.whl.metadata (3.2 kB)
+Collecting python-dotenv
+  Using cached python_dotenv-1.2.1-py3-none-any.whl.metadata (25 kB)
+Collecting PyYAML>=5.3 (from langchain==0.2.13)
+  Downloading pyyaml-6.0.3-cp312-cp312-win_amd64.whl.metadata (2.4 kB)
+Collecting SQLAlchemy<3,>=1.4 (from langchain==0.2.13)
+  Downloading sqlalchemy-2.0.45-cp312-cp312-win_amd64.whl.metadata (9.8 kB)
+Collecting aiohttp<4.0.0,>=3.8.3 (from langchain==0.2.13)
+  Downloading aiohttp-3.13.2-cp312-cp312-win_amd64.whl.metadata (8.4 kB)
+Collecting langchain-text-splitters<0.3.0,>=0.2.0 (from langchain==0.2.13)
+  Using cached langchain_text_splitters-0.2.4-py3-none-any.whl.metadata (2.3 kB)
+Collecting langsmith<0.2.0,>=0.1.17 (from langchain==0.2.13)
+  Using cached langsmith-0.1.147-py3-none-any.whl.metadata (14 kB)
+Collecting numpy
+  Downloading numpy-1.26.4-cp312-cp312-win_amd64.whl.metadata (61 kB)
+Collecting pydantic<3,>=1 (from langchain==0.2.13)
+  Downloading pydantic-2.12.5-py3-none-any.whl.metadata (90 kB)
+Collecting requests<3,>=2 (from langchain==0.2.13)
+  Downloading requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting tenacity!=8.4.0,<9.0.0,>=8.1.0 (from langchain==0.2.13)
+  Downloading tenacity-8.5.0-py3-none-any.whl.metadata (1.2 kB)
+Collecting jsonpatch<2.0,>=1.33 (from langchain-core==0.2.30)
+  Downloading jsonpatch-1.33-py2.py3-none-any.whl.metadata (3.0 kB)
+Collecting packaging<25,>=23.2 (from langchain-core==0.2.30)
+  Downloading packaging-24.2-py3-none-any.whl.metadata (3.2 kB)
+Collecting typing-extensions>=4.7 (from langchain-core==0.2.30)
+  Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting dataclasses-json<0.7,>=0.5.7 (from langchain-community==0.2.13)
+  Downloading dataclasses_json-0.6.7-py3-none-any.whl.metadata (25 kB)
+INFO: pip is looking at multiple versions of langchain-community to determine which version is compatible with other requirements. This could take a while.
+
+The conflict is caused by:
+    The user requested langchain==0.2.13
+    langchain-community 0.2.13 depends on langchain<0.3.0 and >=0.2.15
+
+To fix this you could try to:
+1. loosen the range of package versions you've specified
+2. remove package versions to allow pip to attempt to solve the dependency conflict
+
